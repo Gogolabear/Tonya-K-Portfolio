@@ -1,0 +1,19 @@
+
+h2 {color: darkgreen;}
+h2 {font-size: larger;}
+h1 {font-weight: normal;}
+h1 {text-align: center;}
+h2 {font-weight: bolder;}
+*{shape-outside: border-box;border-color: black;border-width: medium;}
+p {font-size: large;}
+hr {width: 300px;}
+#img {border: 10px solid darkcyan; border-style: dashed;}
+#Talk {margin-left: 120px; margin-top: -300px;}
+#about {margin-left: 120px;}
+#content {margin-left: 120px;}
+#ed {margin-top: 200px;}
+#education {margin-inline-start: -70px;}
+#line {margin-inline-start: -70px;}
+#work {margin-inline-start: -70px;}
+#skill {margin-inline-start: -70px;}
+#cert {margin-inline-start: -70px;}
